@@ -1,0 +1,1 @@
+Hash's key values which you can refrence and arrays do not.
